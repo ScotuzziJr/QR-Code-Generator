@@ -1,4 +1,4 @@
-# QR-Code-Generator-Python
+# QR Code Generator
 
 Este projeto é um gerador de QR Code por meio de URL's. O objetivo é aplicar conceitos de Python na prática e desenvolver habilidades para trabalhar com interfaces gráficas.
 A biblioteca usada para implementar a UI, foi a Tkinter.
